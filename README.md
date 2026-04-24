@@ -6,7 +6,7 @@ These tasks include, but are not limited to, diagnostic tests, ensuring permisio
 
 All of the code written in this repository has been written and managed by Adam Baer of 3AM Innovations.
 
-###Design Samples:
+Design Samples:
 found here https://www.figma.com/design/3Sb9Stgi9X8ITJKIhFfjsv/Florian-Mezzo?m=dev&t=PQwOQg686sRabXKB-1:
 <img width="728" height="635" alt="image" src="https://github.com/user-attachments/assets/9f969254-4f43-4781-aa7c-0bc6cb3b15a5" />
 <img width="684" height="399" alt="image" src="https://github.com/user-attachments/assets/2123abdc-cfe5-42af-9326-6b42ad22eb6a" />
